@@ -1,0 +1,8 @@
+{
+  "name": "stagefront-freshdesk-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"@modelcontextprotocol/sdk": "^1.17.0", "express": "^5.1.0"}
+}
